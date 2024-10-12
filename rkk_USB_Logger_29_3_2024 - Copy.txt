@@ -1,0 +1,601 @@
+[29/3/2024 03:00:25.399986] INFO: smartsuit_com_device_class version: 2.2.0+75
+[29/3/2024 03:00:41.429315] INFO: Executing command on port COM4
+[29/3/2024 03:00:41.429986] INFO: Creating object GetHUBInformation
+[29/3/2024 03:00:42.450113] INFO: Opening COM port
+[29/3/2024 03:00:42.450395] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:00:43.384597] INFO: Unique ID number for HUB is: 
+[29/3/2024 03:00:43.384883] INFO: 	0x2200293230510c313034310 
+[29/3/2024 03:00:43.385086] INFO: 	HUB bootloader version v1.2.0-r 
+[29/3/2024 03:00:43.385322] INFO: 	HUB firmware version v2.3.0-r build on 2024-01-24 05:49 -0800
+[29/3/2024 03:00:43.394639] INFO: 	USB API version v1.0.0 
+[29/3/2024 03:00:43.394816] INFO: 	WIFI API version v1.0.1 
+[29/3/2024 03:00:43.395051] INFO: 	BLUETOOH API version v1.0.0 
+[29/3/2024 03:00:43.395231] INFO: 	HUB Serial Number: R6XBCR3HW8Z2 
+[29/3/2024 03:00:43.395407] INFO: Production data: 
+[29/3/2024 03:00:43.395580] INFO: 	prod_assy 0x60200002 
+[29/3/2024 03:00:43.395750] INFO: 	prod_board_id 1 
+[29/3/2024 03:00:43.395960] INFO: 	prod_date 3223 
+[29/3/2024 03:00:43.396135] INFO: 	prod_epoch 1691747792 
+[29/3/2024 03:00:43.396315] INFO: Closing com port
+[29/3/2024 03:00:43.402216] INFO: Executing command on port COM4
+[29/3/2024 03:00:43.402762] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:00:44.421990] INFO: Opening COM port
+[29/3/2024 03:00:44.422249] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:00:44.439199] INFO: Closing com port
+[29/3/2024 03:00:44.443825] INFO: Executing command on port COM4
+[29/3/2024 03:00:44.444375] INFO: Creating object GetHUBName
+[29/3/2024 03:00:45.463967] INFO: Opening COM port
+[29/3/2024 03:00:45.464235] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:00:45.480980] INFO: Read name is: Rokoko Smartglove
+[29/3/2024 03:00:45.481186] INFO: Closing com port
+[29/3/2024 03:00:50.665814] INFO: Executing command on port COM4
+[29/3/2024 03:00:50.666582] INFO: Creating object ScanNetworksCommand
+[29/3/2024 03:00:51.686699] INFO: Opening COM port
+[29/3/2024 03:00:51.686977] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:01:00.838440] INFO: Closing com port
+[29/3/2024 03:05:18.589394] INFO: Executing command on port COM4
+[29/3/2024 03:05:18.590300] INFO: Creating object ScanNetworksCommand
+[29/3/2024 03:05:19.609068] INFO: Opening COM port
+[29/3/2024 03:05:19.609360] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:05:27.983540] INFO: Closing com port
+[29/3/2024 03:06:55.156081] INFO: Executing command on port COM4
+[29/3/2024 03:06:55.156800] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:06:56.176852] INFO: Opening COM port
+[29/3/2024 03:06:56.177114] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:07:04.435267] INFO: Closing com port
+[29/3/2024 03:09:18.062462] INFO: Executing command on port COM4
+[29/3/2024 03:09:18.063187] INFO: Creating object ScanNetworksCommand
+[29/3/2024 03:09:19.083622] INFO: Opening COM port
+[29/3/2024 03:09:19.083951] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:09:28.309076] INFO: Closing com port
+[29/3/2024 03:10:21.919304] INFO: smartsuit_com_device_class version: 2.2.0+75
+[29/3/2024 03:10:42.968948] INFO: Executing command on port COM4
+[29/3/2024 03:10:42.969689] INFO: Creating object GetHUBInformation
+[29/3/2024 03:10:43.989916] INFO: Opening COM port
+[29/3/2024 03:10:43.990187] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:10:44.007825] INFO: Unique ID number for HUB is: 
+[29/3/2024 03:10:44.008058] INFO: 	0x2200293230510c313034310 
+[29/3/2024 03:10:44.008243] INFO: 	HUB bootloader version v1.2.0-r 
+[29/3/2024 03:10:44.008475] INFO: 	HUB firmware version v2.3.0-r build on 2024-01-24 05:49 -0800
+[29/3/2024 03:10:44.008642] INFO: 	USB API version v1.0.0 
+[29/3/2024 03:10:44.008808] INFO: 	WIFI API version v1.0.1 
+[29/3/2024 03:10:44.008980] INFO: 	BLUETOOH API version v1.0.0 
+[29/3/2024 03:10:44.009148] INFO: 	HUB Serial Number: R6XBCR3HW8Z2 
+[29/3/2024 03:10:44.009316] INFO: Production data: 
+[29/3/2024 03:10:44.009486] INFO: 	prod_assy 0x60200002 
+[29/3/2024 03:10:44.009659] INFO: 	prod_board_id 1 
+[29/3/2024 03:10:44.009927] INFO: 	prod_date 3223 
+[29/3/2024 03:10:44.010098] INFO: 	prod_epoch 1691747792 
+[29/3/2024 03:10:44.010265] INFO: Closing com port
+[29/3/2024 03:10:44.016026] INFO: Executing command on port COM4
+[29/3/2024 03:10:44.016627] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:10:45.035897] INFO: Opening COM port
+[29/3/2024 03:10:45.036193] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:10:45.053088] INFO: Closing com port
+[29/3/2024 03:10:45.059266] INFO: Executing command on port COM4
+[29/3/2024 03:10:45.059808] INFO: Creating object GetHUBName
+[29/3/2024 03:10:46.079836] INFO: Opening COM port
+[29/3/2024 03:10:46.080105] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:10:46.097798] INFO: Read name is: Rokoko Smartglove
+[29/3/2024 03:10:46.098001] INFO: Closing com port
+[29/3/2024 03:10:57.446569] INFO: Executing command on port COM4
+[29/3/2024 03:10:57.447343] INFO: Creating object ScanNetworksCommand
+[29/3/2024 03:10:58.466309] INFO: Opening COM port
+[29/3/2024 03:10:58.466584] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:11:07.635410] INFO: Closing com port
+[29/3/2024 03:11:46.502947] INFO: Executing command on port COM4
+[29/3/2024 03:11:46.503638] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:11:47.523194] INFO: Opening COM port
+[29/3/2024 03:11:47.523479] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:12:00.455061] INFO: Closing com port
+[29/3/2024 03:12:00.458449] INFO: Executing command on port COM4
+[29/3/2024 03:12:00.459136] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:12:01.478567] INFO: Opening COM port
+[29/3/2024 03:12:01.478851] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:12:01.497020] INFO: Closing com port
+[29/3/2024 03:12:56.635729] INFO: Executing command on port COM4
+[29/3/2024 03:12:56.636469] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:12:57.656145] INFO: Opening COM port
+[29/3/2024 03:12:57.656471] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:13:06.704912] INFO: Closing com port
+[29/3/2024 03:13:06.707274] INFO: Executing command on port COM4
+[29/3/2024 03:13:06.707809] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:13:07.727707] INFO: Opening COM port
+[29/3/2024 03:13:07.727999] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:13:07.744174] INFO: Closing com port
+[29/3/2024 03:15:57.161942] INFO: Executing command on port COM4
+[29/3/2024 03:15:57.162634] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:15:58.182252] INFO: Opening COM port
+[29/3/2024 03:15:58.182521] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:16:07.231340] INFO: Closing com port
+[29/3/2024 03:16:07.234425] INFO: Executing command on port COM4
+[29/3/2024 03:16:07.234932] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:16:08.254823] INFO: Opening COM port
+[29/3/2024 03:16:08.255104] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:16:08.272837] INFO: Closing com port
+[29/3/2024 03:17:03.731406] INFO: Executing command on port COM4
+[29/3/2024 03:17:03.732159] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:17:04.752356] INFO: Opening COM port
+[29/3/2024 03:17:04.752630] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:17:13.789942] INFO: Closing com port
+[29/3/2024 03:17:13.792563] INFO: Executing command on port COM4
+[29/3/2024 03:17:13.793133] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:17:14.812951] INFO: Opening COM port
+[29/3/2024 03:17:14.813271] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:17:14.830533] INFO: Closing com port
+[29/3/2024 03:18:23.913555] INFO: smartsuit_com_device_class version: 2.2.0+75
+[29/3/2024 03:18:42.962243] INFO: Executing command on port COM4
+[29/3/2024 03:18:42.963029] INFO: Creating object GetHUBInformation
+[29/3/2024 03:18:43.983044] INFO: Opening COM port
+[29/3/2024 03:18:43.983305] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:18:44.001057] INFO: Unique ID number for HUB is: 
+[29/3/2024 03:18:44.001272] INFO: 	0x2200293230510c313034310 
+[29/3/2024 03:18:44.001460] INFO: 	HUB bootloader version v1.2.0-r 
+[29/3/2024 03:18:44.001734] INFO: 	HUB firmware version v2.3.0-r build on 2024-01-24 05:49 -0800
+[29/3/2024 03:18:44.001929] INFO: 	USB API version v1.0.0 
+[29/3/2024 03:18:44.002104] INFO: 	WIFI API version v1.0.1 
+[29/3/2024 03:18:44.002272] INFO: 	BLUETOOH API version v1.0.0 
+[29/3/2024 03:18:44.002443] INFO: 	HUB Serial Number: R6XBCR3HW8Z2 
+[29/3/2024 03:18:44.002610] INFO: Production data: 
+[29/3/2024 03:18:44.002779] INFO: 	prod_assy 0x60200002 
+[29/3/2024 03:18:44.002952] INFO: 	prod_board_id 1 
+[29/3/2024 03:18:44.003120] INFO: 	prod_date 3223 
+[29/3/2024 03:18:44.003320] INFO: 	prod_epoch 1691747792 
+[29/3/2024 03:18:44.003489] INFO: Closing com port
+[29/3/2024 03:18:44.010303] INFO: Executing command on port COM4
+[29/3/2024 03:18:44.010892] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:18:45.029993] INFO: Opening COM port
+[29/3/2024 03:18:45.030242] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:18:45.047941] INFO: Closing com port
+[29/3/2024 03:18:45.052928] INFO: Executing command on port COM4
+[29/3/2024 03:18:45.053452] INFO: Creating object GetHUBName
+[29/3/2024 03:18:46.072957] INFO: Opening COM port
+[29/3/2024 03:18:46.073246] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:18:46.090601] INFO: Read name is: Rokoko Smartglove
+[29/3/2024 03:18:46.090815] INFO: Closing com port
+[29/3/2024 03:18:56.560967] INFO: Executing command on port COM4
+[29/3/2024 03:18:56.561703] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:18:57.580467] INFO: Opening COM port
+[29/3/2024 03:18:57.580745] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:19:08.372015] INFO: Closing com port
+[29/3/2024 03:19:08.374630] INFO: Executing command on port COM4
+[29/3/2024 03:19:08.375243] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:19:09.393930] INFO: Opening COM port
+[29/3/2024 03:19:09.394186] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:19:09.414925] INFO: Closing com port
+[29/3/2024 03:19:30.433005] INFO: Executing command on port COM4
+[29/3/2024 03:19:30.433664] INFO: Creating object GetHUBInformation
+[29/3/2024 03:19:31.452966] INFO: Opening COM port
+[29/3/2024 03:19:31.453252] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:19:31.883628] INFO: Unique ID number for HUB is: 
+[29/3/2024 03:19:31.883899] INFO: 	0x2d004c34315103383934390 
+[29/3/2024 03:19:31.884092] INFO: 	HUB bootloader version v1.2.0-r 
+[29/3/2024 03:19:31.884290] INFO: 	HUB firmware version v2.3.0-r build on 2024-01-24 05:49 -0800
+[29/3/2024 03:19:31.884702] INFO: 	USB API version v1.0.0 
+[29/3/2024 03:19:31.884939] INFO: 	WIFI API version v1.0.1 
+[29/3/2024 03:19:31.885185] INFO: 	BLUETOOH API version v1.0.0 
+[29/3/2024 03:19:31.885384] INFO: 	HUB Serial Number: R6XBCR3HW8Z2 
+[29/3/2024 03:19:31.885603] INFO: Production data: 
+[29/3/2024 03:19:31.885801] INFO: 	prod_assy 0x60200002 
+[29/3/2024 03:19:31.886001] INFO: 	prod_board_id 1 
+[29/3/2024 03:19:31.886195] INFO: 	prod_date 3223 
+[29/3/2024 03:19:31.886392] INFO: 	prod_epoch 1691747687 
+[29/3/2024 03:19:31.886585] INFO: Closing com port
+[29/3/2024 03:19:31.889422] INFO: Executing command on port COM4
+[29/3/2024 03:19:31.890020] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:19:32.909937] INFO: Opening COM port
+[29/3/2024 03:19:32.910222] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:19:32.927460] INFO: Closing com port
+[29/3/2024 03:19:32.930216] INFO: Executing command on port COM4
+[29/3/2024 03:19:32.930746] INFO: Creating object GetHUBName
+[29/3/2024 03:19:33.949841] INFO: Opening COM port
+[29/3/2024 03:19:33.950122] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:19:33.967621] INFO: Read name is: Rokoko Smartglove
+[29/3/2024 03:19:33.967806] INFO: Closing com port
+[29/3/2024 03:19:39.341431] INFO: Executing command on port COM4
+[29/3/2024 03:19:39.342127] INFO: Creating object ScanNetworksCommand
+[29/3/2024 03:19:40.361586] INFO: Opening COM port
+[29/3/2024 03:19:40.361836] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:19:49.551238] INFO: Closing com port
+[29/3/2024 03:21:32.026858] INFO: Executing command on port COM4
+[29/3/2024 03:21:32.027722] INFO: Creating object ScanNetworksCommand
+[29/3/2024 03:21:33.047717] INFO: Opening COM port
+[29/3/2024 03:21:33.048003] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:21:41.368741] INFO: Closing com port
+[29/3/2024 03:21:57.547796] INFO: Executing command on port COM4
+[29/3/2024 03:21:57.548588] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:21:58.568587] INFO: Opening COM port
+[29/3/2024 03:21:58.568851] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:22:11.396142] INFO: Closing com port
+[29/3/2024 03:22:11.398670] INFO: Executing command on port COM4
+[29/3/2024 03:22:11.399353] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:22:12.418978] INFO: Opening COM port
+[29/3/2024 03:22:12.419234] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:22:12.437973] INFO: Closing com port
+[29/3/2024 03:25:04.565997] INFO: Executing command on port COM3
+[29/3/2024 03:25:04.566687] INFO: Creating object GetHUBInformation
+[29/3/2024 03:25:05.580493] INFO: Opening COM port
+[29/3/2024 03:25:05.580813] INFO: Checking hub version...
+[29/3/2024 03:25:05.597578] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:25:05.614630] INFO: Unique ID number for HUB is: 
+[29/3/2024 03:25:05.614847] INFO: 	0x3c00494d465015203632330 
+[29/3/2024 03:25:05.615053] INFO: 	HUB bootloader version v2.2.0-r 
+[29/3/2024 03:25:05.615244] INFO: 	HUB firmware version v2.9.1-r build on 2024-01-10 06:53 -0800
+[29/3/2024 03:25:05.615425] INFO: 	USB API version v1.0.0 
+[29/3/2024 03:25:05.615596] INFO: 	WIFI API version v1.0.1 
+[29/3/2024 03:25:05.615766] INFO: 	BLUETOOH API version v1.0.0 
+[29/3/2024 03:25:05.615939] INFO: 	HUB Serial Number: UFV7UAEZBMW8 
+[29/3/2024 03:25:05.616106] INFO: Production data: 
+[29/3/2024 03:25:05.616334] INFO: 	prod_assy 0x50300001 
+[29/3/2024 03:25:05.616515] INFO: 	prod_board_id 1 
+[29/3/2024 03:25:05.616690] INFO: 	prod_date 3923 
+[29/3/2024 03:25:05.616863] INFO: 	prod_epoch 1695644473 
+[29/3/2024 03:25:05.617032] INFO: Closing com port
+[29/3/2024 03:25:05.619795] INFO: Executing command on port COM3
+[29/3/2024 03:25:05.620387] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:25:06.633499] INFO: Opening COM port
+[29/3/2024 03:25:06.633821] INFO: Checking hub version...
+[29/3/2024 03:25:06.651507] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:25:06.667905] INFO: Closing com port
+[29/3/2024 03:25:06.670688] INFO: Executing command on port COM3
+[29/3/2024 03:25:06.671193] INFO: Creating object GetHUBName
+[29/3/2024 03:25:07.684373] INFO: Opening COM port
+[29/3/2024 03:25:07.684658] INFO: Checking hub version...
+[29/3/2024 03:25:07.701434] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:25:07.718611] INFO: Read name is: Rokoko Smartsuit Pro
+[29/3/2024 03:25:07.718793] INFO: Closing com port
+[29/3/2024 03:25:07.724476] INFO: Executing command on port COM3
+[29/3/2024 03:25:07.724998] INFO: Creating object GetSensorsInformation
+[29/3/2024 03:25:08.738306] INFO: Opening COM port
+[29/3/2024 03:25:08.738558] INFO: Checking hub version...
+[29/3/2024 03:25:08.754678] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:25:18.406483] WARNING: rkk_usb_cdc_interface::read_port(): Warning! Length missmatch 1024 == 1984
+[29/3/2024 03:25:18.406795] INFO: Collected firmware information for 17 sensors
+[29/3/2024 03:25:18.406993] INFO: Sensor with addr 0x0:
+[29/3/2024 03:25:18.407187] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.407456] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.407661] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.407853] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.408082] INFO:     Setup status: 0
+[29/3/2024 03:25:18.408278] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.408508] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.408704] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.408895] INFO: Sensor with addr 0x1:
+[29/3/2024 03:25:18.409090] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.409333] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.409530] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.409719] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.409908] INFO:     Setup status: 0
+[29/3/2024 03:25:18.410095] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.410299] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.410504] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.410703] INFO: Sensor with addr 0x2:
+[29/3/2024 03:25:18.410902] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.411098] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.411299] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.411518] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.411718] INFO:     Setup status: 0
+[29/3/2024 03:25:18.411914] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.412154] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.412364] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.412562] INFO: Sensor with addr 0x3:
+[29/3/2024 03:25:18.412761] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.412957] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.413153] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.413393] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.413585] INFO:     Setup status: 0
+[29/3/2024 03:25:18.413779] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.413971] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.414163] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.414352] INFO: Sensor with addr 0x20:
+[29/3/2024 03:25:18.414545] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.414733] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.414946] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.415136] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.415324] INFO:     Setup status: 0
+[29/3/2024 03:25:18.415512] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.415698] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.415889] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.416077] INFO: Sensor with addr 0x21:
+[29/3/2024 03:25:18.416266] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.416468] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.416666] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.416859] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.417056] INFO:     Setup status: 0
+[29/3/2024 03:25:18.417255] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.417460] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.417657] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.417859] INFO: Sensor with addr 0x22:
+[29/3/2024 03:25:18.418082] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.418302] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.418489] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.418726] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.418921] INFO:     Setup status: 0
+[29/3/2024 03:25:18.419112] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.419301] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.419489] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.419675] INFO: Sensor with addr 0x23:
+[29/3/2024 03:25:18.419864] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.420050] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.420347] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.420541] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.420730] INFO:     Setup status: 0
+[29/3/2024 03:25:18.420939] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.421130] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.421322] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.421498] INFO: Sensor with addr 0x40:
+[29/3/2024 03:25:18.421691] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.421866] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.422055] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.422263] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.422440] INFO:     Setup status: 0
+[29/3/2024 03:25:18.422624] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.422815] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.422996] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.423179] INFO: Sensor with addr 0x60:
+[29/3/2024 03:25:18.423351] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.423521] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.423694] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.423866] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.424039] INFO:     Setup status: 0
+[29/3/2024 03:25:18.424211] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.424386] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.424559] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.424752] INFO: Sensor with addr 0x61:
+[29/3/2024 03:25:18.424946] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.425153] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.425330] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.425496] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.425667] INFO:     Setup status: 0
+[29/3/2024 03:25:18.425832] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.425995] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.426158] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.426327] INFO: Sensor with addr 0x62:
+[29/3/2024 03:25:18.426498] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.426672] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.426847] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.427018] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.427189] INFO:     Setup status: 0
+[29/3/2024 03:25:18.427368] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.427541] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.427736] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.427908] INFO: Sensor with addr 0x63:
+[29/3/2024 03:25:18.428079] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.428252] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.428432] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.428604] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.428776] INFO:     Setup status: 0
+[29/3/2024 03:25:18.428947] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.429118] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.429298] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.429496] INFO: Sensor with addr 0x80:
+[29/3/2024 03:25:18.429662] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.429827] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.429991] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.430161] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.430357] INFO:     Setup status: 0
+[29/3/2024 03:25:18.430522] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.430706] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.430876] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.431041] INFO: Sensor with addr 0x81:
+[29/3/2024 03:25:18.431206] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.431377] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.431540] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.431705] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.431866] INFO:     Setup status: 0
+[29/3/2024 03:25:18.432030] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.432190] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.432376] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.432549] INFO: Sensor with addr 0x82:
+[29/3/2024 03:25:18.432721] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.432894] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.433067] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.433240] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.433411] INFO:     Setup status: 0
+[29/3/2024 03:25:18.433633] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.433824] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.434006] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.434173] INFO: Sensor with addr 0x83:
+[29/3/2024 03:25:18.434372] INFO:     Bootloader version: 1.0.0-r
+[29/3/2024 03:25:18.434537] INFO:     Boot status: 0xe0
+[29/3/2024 03:25:18.434700] INFO:     Firmware version: 2.3.0-r
+[29/3/2024 03:25:18.434868] INFO:     Signature: 0xab94762d
+[29/3/2024 03:25:18.435032] INFO:     Setup status: 0
+[29/3/2024 03:25:18.435197] INFO:     Calibration ID: 0x33c1a1b1
+[29/3/2024 03:25:18.435424] INFO:     Build number: dec=94 - hex=0x5e
+[29/3/2024 03:25:18.435590] INFO:     Hardware version: 0x70100001
+[29/3/2024 03:25:18.435755] INFO: Closing com port
+[29/3/2024 03:25:22.876394] INFO: Executing command on port COM3
+[29/3/2024 03:25:22.877189] INFO: Creating object ScanNetworksCommand
+[29/3/2024 03:25:23.890693] INFO: Opening COM port
+[29/3/2024 03:25:23.890947] INFO: Checking hub version...
+[29/3/2024 03:25:23.907322] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:25:26.572724] INFO: Closing com port
+[29/3/2024 03:25:44.226753] INFO: Executing command on port COM3
+[29/3/2024 03:25:44.227428] INFO: Creating object WriteNetworkCommand
+[29/3/2024 03:25:45.240793] INFO: Opening COM port
+[29/3/2024 03:25:45.241069] INFO: Checking hub version...
+[29/3/2024 03:25:45.258303] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:25:52.255175] INFO: Closing com port
+[29/3/2024 03:25:53.397494] INFO: Executing command on port COM3
+[29/3/2024 03:25:53.398057] INFO: Creating object ReadNetworkCommand
+[29/3/2024 03:25:54.411354] INFO: Opening COM port
+[29/3/2024 03:25:54.411633] INFO: Checking hub version...
+[29/3/2024 03:25:54.427962] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 03:25:54.444980] INFO: Closing com port
+[29/3/2024 03:44:09.778590] INFO: smartsuit_com_device_class version: 2.2.0+75
+[29/3/2024 03:59:07.414617] INFO: smartsuit_com_device_class version: 2.2.0+75
+[29/3/2024 04:23:14.713939] INFO: Executing command on port COM4
+[29/3/2024 04:23:14.714602] INFO: Creating object GetHUBInformation
+[29/3/2024 04:23:15.734906] INFO: Opening COM port
+[29/3/2024 04:23:15.735175] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 04:23:15.752783] INFO: Unique ID number for HUB is: 
+[29/3/2024 04:23:15.753004] INFO: 	0x2200293230510c313034310 
+[29/3/2024 04:23:15.753191] INFO: 	HUB bootloader version v1.2.0-r 
+[29/3/2024 04:23:15.753442] INFO: 	HUB firmware version v2.3.0-r build on 2024-01-24 05:49 -0800
+[29/3/2024 04:23:15.753616] INFO: 	USB API version v1.0.0 
+[29/3/2024 04:23:15.753788] INFO: 	WIFI API version v1.0.1 
+[29/3/2024 04:23:15.753965] INFO: 	BLUETOOH API version v1.0.0 
+[29/3/2024 04:23:15.754135] INFO: 	HUB Serial Number: R6XBCR3HW8Z2 
+[29/3/2024 04:23:15.754306] INFO: Production data: 
+[29/3/2024 04:23:15.754501] INFO: 	prod_assy 0x60200002 
+[29/3/2024 04:23:15.754676] INFO: 	prod_board_id 1 
+[29/3/2024 04:23:15.754848] INFO: 	prod_date 3223 
+[29/3/2024 04:23:15.755019] INFO: 	prod_epoch 1691747792 
+[29/3/2024 04:23:15.755194] INFO: Closing com port
+[29/3/2024 04:23:15.760626] INFO: Executing command on port COM4
+[29/3/2024 04:23:15.761229] INFO: Creating object ReadNetworkCommand
+[29/3/2024 04:23:16.780805] INFO: Opening COM port
+[29/3/2024 04:23:16.781111] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 04:23:16.797245] INFO: Closing com port
+[29/3/2024 04:23:16.802898] INFO: Executing command on port COM4
+[29/3/2024 04:23:16.803437] INFO: Creating object GetHUBName
+[29/3/2024 04:23:17.822825] INFO: Opening COM port
+[29/3/2024 04:23:17.823133] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 04:23:17.840688] INFO: Read name is: Rokoko Smartglove
+[29/3/2024 04:23:17.840882] INFO: Closing com port
+[29/3/2024 04:23:23.467426] INFO: Executing command on port COM4
+[29/3/2024 04:23:23.468078] INFO: Creating object GetHUBInformation
+[29/3/2024 04:23:24.488455] INFO: Opening COM port
+[29/3/2024 04:23:24.488721] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 04:23:24.505757] INFO: Unique ID number for HUB is: 
+[29/3/2024 04:23:24.505979] INFO: 	0x2200293230510c313034310 
+[29/3/2024 04:23:24.506161] INFO: 	HUB bootloader version v1.2.0-r 
+[29/3/2024 04:23:24.506356] INFO: 	HUB firmware version v2.3.0-r build on 2024-01-24 05:49 -0800
+[29/3/2024 04:23:24.506540] INFO: 	USB API version v1.0.0 
+[29/3/2024 04:23:24.506726] INFO: 	WIFI API version v1.0.1 
+[29/3/2024 04:23:24.506907] INFO: 	BLUETOOH API version v1.0.0 
+[29/3/2024 04:23:24.507086] INFO: 	HUB Serial Number: R6XBCR3HW8Z2 
+[29/3/2024 04:23:24.507288] INFO: Production data: 
+[29/3/2024 04:23:24.507458] INFO: 	prod_assy 0x60200002 
+[29/3/2024 04:23:24.507623] INFO: 	prod_board_id 1 
+[29/3/2024 04:23:24.507788] INFO: 	prod_date 3223 
+[29/3/2024 04:23:24.507956] INFO: 	prod_epoch 1691747792 
+[29/3/2024 04:23:24.508121] INFO: Closing com port
+[29/3/2024 04:23:24.521960] INFO: Executing command on port COM4
+[29/3/2024 04:23:24.522560] INFO: Creating object GetHUBLogFile:
+[29/3/2024 04:23:25.541412] INFO: Opening COM port
+[29/3/2024 04:23:25.541695] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 04:23:34.339780] WARNING: rkk_usb_cdc_interface::read_port(): Warning! Length missmatch 434 == 1250
+[29/3/2024 04:23:46.849867] WARNING: rkk_usb_cdc_interface::read_port(): Warning! Length missmatch 0 == 1250
+[29/3/2024 04:23:46.850186] INFO: LOG-file: Length 4184
+[29/3/2024 04:23:46.850404] INFO: LOG-file: [33mKernel: Memory allocation for inter-core message - MSG at 0x30022f80  CMD at 0x30022fa0
+[29/3/2024 04:23:46.850642] INFO: LOG-file: [0mKernel running on CPU-CM4!!!
+[29/3/2024 04:23:46.850846] INFO: LOG-file: SFLASH module (boot) initialized
+[29/3/2024 04:23:46.851041] INFO: LOG-file: 	DMA TX-channel 0 has been registered
+[29/3/2024 04:23:46.851216] INFO: LOG-file: 	DMA RX-channel 1 has been registered
+[29/3/2024 04:23:46.851429] INFO: LOG-file: I2C2 (i2c2) initialised
+[29/3/2024 04:23:46.851603] INFO: LOG-file: PCA9548A (i2cmux) initialised
+[29/3/2024 04:23:46.851773] INFO: LOG-file: [33mSINFINEON (infineon): EMF Enabled, unmuted Infineon!
+[29/3/2024 04:23:46.851943] INFO: LOG-file: [0mSINFINEON (infineon) initialised
+[29/3/2024 04:23:46.852112] INFO: LOG-file: 	DMA TX-channel 2 has been registered
+[29/3/2024 04:23:46.852285] INFO: LOG-file: 	DMA RX-channel 3 has been registered
+[29/3/2024 04:23:46.852457] INFO: LOG-file: SPI4 Master Device as module (spi4) initialized
+[29/3/2024 04:23:46.852629] INFO: LOG-file: 	DMA TX-channel 4 has been registered
+[29/3/2024 04:23:46.852806] INFO: LOG-file: 	DMA RX-channel 5 has been registered
+[29/3/2024 04:23:46.852975] INFO: LOG-file: SPI6 Master Device as module (spi6) initialized
+[29/3/2024 04:23:46.853144] INFO: LOG-file: EEPROM-module (eeprom) initialized
+[29/3/2024 04:23:46.853326] INFO: LOG-file: System settings module (settings) initialized
+[29/3/2024 04:23:46.853506] INFO: LOG-file: 	DMA TX-channel 6 has been registered
+[29/3/2024 04:23:46.853687] INFO: LOG-file: 	DMA RX-channel 7 has been registered
+[29/3/2024 04:23:46.853864] INFO: LOG-file: I2C1 (i2c1) initialised
+[29/3/2024 04:23:46.854041] INFO: LOG-file: I2C-EXPANDER (ext) initialised
+[29/3/2024 04:23:46.854218] INFO: LOG-file: [33mSFLASH: function _secure_area_flash_read() partially implemented!
+[29/3/2024 04:23:46.854418] INFO: LOG-file: [0m	DMA TX-channel 8 has been registered
+[29/3/2024 04:23:46.854596] INFO: LOG-file: 	DMA RX-channel 9 has been registered
+[29/3/2024 04:23:46.854772] INFO: LOG-file: SUART: (uart7) SSP not detected
+[29/3/2024 04:23:46.854952] INFO: LOG-file: USB-interface: object created!!
+[29/3/2024 04:23:46.855134] INFO: LOG-file: USB-CDC-interface (cdc) initialized
+[29/3/2024 04:23:46.855313] INFO: LOG-file: USB-interface: Started!
+[29/3/2024 04:23:46.855492] INFO: LOG-file: USB-interface: Device started!
+[29/3/2024 04:23:46.855672] INFO: LOG-file: Redpine module (redpine) initialized
+[29/3/2024 04:23:46.855865] INFO: LOG-file: [33mSFLASH: function _secure_area_flash_read() partially implemented!
+[29/3/2024 04:23:46.856100] INFO: LOG-file: [0mWiFi : Module initialisation in progress...
+[29/3/2024 04:23:46.856285] INFO: LOG-file: Main module initialised
+[29/3/2024 04:23:46.856475] INFO: LOG-file: [33mSINFINEON (infineon): Configuration fail: step 6!
+[29/3/2024 04:23:46.856652] INFO: LOG-file: [0m[31mgot zero gyr or acc (nullptr cnt: 2)!
+[29/3/2024 04:23:46.856824] INFO: LOG-file: [0m[31mgot zero gyr or acc (nullptr cnt: 3)!
+[29/3/2024 04:23:46.856993] INFO: LOG-file: [0m[31mgot zero gyr or acc (nullptr cnt: 4)!
+[29/3/2024 04:23:46.857166] INFO: LOG-file: [0m[31mgot zero gyr or acc (nullptr cnt: 5)!
+[29/3/2024 04:23:46.857337] INFO: LOG-file: [0m[31mgot zero gyr or acc (nullptr cnt: 6)!
+[29/3/2024 04:23:46.857535] INFO: LOG-file: [0m[33mSFLASH: function _secure_area_flash_read() partially implemented!
+[29/3/2024 04:23:46.857703] INFO: LOG-file: [0m[33mSFLASH: function _secure_area_flash_read() partially implemented!
+[29/3/2024 04:23:46.857872] INFO: LOG-file: [0m[33mSFLASH: function _secure_area_flash_read() partially implemented!
+[29/3/2024 04:23:46.858041] INFO: LOG-file: [0m
+[29/3/2024 04:23:46.858212] INFO: LOG-file: [33mKernel: Memory allocation for inter-core message - MSG at 0x30021b20  CMD at 0x30021b40
+[29/3/2024 04:23:46.858380] INFO: LOG-file: [0mKernel running on CPU-CM7!!!
+[29/3/2024 04:23:46.858551] INFO: LOG-file: Reset cause: UNKNOWN
+[29/3/2024 04:23:46.858720] INFO: LOG-file: SFLASH module (boot) initialized
+[29/3/2024 04:23:46.858887] INFO: LOG-file: 	DMA TX-channel 0 has been registered
+[29/3/2024 04:23:46.859069] INFO: LOG-file: 	DMA RX-channel 1 has been registered
+[29/3/2024 04:23:46.859248] INFO: LOG-file: SPI6 Master Device as module (spi6) initialized
+[29/3/2024 04:23:46.859425] INFO: LOG-file: EEPROM-module (eeprom) initialized
+[29/3/2024 04:23:46.859607] INFO: LOG-file: System settings module (settings) initialized
+[29/3/2024 04:23:46.859785] INFO: LOG-file: [33mSFLASH: function _secure_area_flash_read() partially implemented!
+[29/3/2024 04:23:46.859964] INFO: LOG-file: [0mMain: Registered glove with V2 arm sensor!
+[29/3/2024 04:23:46.860165] INFO: LOG-file: 	DMA channel 2 has been registered
+[29/3/2024 04:23:46.860344] INFO: LOG-file: 	DMA channel 3 has been registered
+[29/3/2024 04:23:46.860539] INFO: LOG-file: SSAI: f1: 1610612736 f2: 1088010069 f3: -1610612736 Hz
+[29/3/2024 04:23:46.860779] INFO: LOG-file: SSAI-module (sai4) initialized
+[29/3/2024 04:23:46.860958] INFO: LOG-file: 	DMA TX-channel 4 has been registered
+[29/3/2024 04:23:46.861128] INFO: LOG-file: 	DMA RX-channel 5 has been registered
+[29/3/2024 04:23:46.861298] INFO: LOG-file: I2C1 (i2c1) initialised
+[29/3/2024 04:23:46.861465] INFO: LOG-file: 	DMA TX-channel 6 has been registered
+[29/3/2024 04:23:46.861656] INFO: LOG-file: 	DMA RX-channel 7 has been registered
+[29/3/2024 04:23:46.861828] INFO: LOG-file: I2C2 (i2c2) initialised
+[29/3/2024 04:23:46.862010] INFO: LOG-file: PCA9548A (i2cmux) initialised
+[29/3/2024 04:23:46.862180] INFO: LOG-file: I2C-EXPANDER (ext) initialised
+[29/3/2024 04:23:46.862348] INFO: LOG-file: BMI270: Chip has been configured successfully!
+[29/3/2024 04:23:46.862517] INFO: LOG-file: BMI270 (hbmi) initialised
+[29/3/2024 04:23:46.862689] INFO: LOG-file: [33mBMI270: Chip needs to be configured manually!
+[29/3/2024 04:23:46.862857] INFO: LOG-file: [0mBMI270 (sbmi) initialised
+[29/3/2024 04:23:46.863026] INFO: LOG-file: [31mSIMU (imudata): BMI configuration fail on finger 4 - error -150
+[29/3/2024 04:23:46.863206] INFO: LOG-file: [0mSIMU (imudata) initialized
+[29/3/2024 04:23:46.863383] INFO: LOG-file: SADC: Channel sequence
+[29/3/2024 04:23:46.863586] INFO: LOG-file:     0. Channel 1126236160
+[29/3/2024 04:23:46.863764] INFO: LOG-file:     1. Channel 1196556288
+[29/3/2024 04:23:46.863942] INFO: LOG-file:     2. Channel 985677824
+[29/3/2024 04:23:46.864119] INFO: LOG-file:     3. Channel 1055948800
+[29/3/2024 04:23:46.864298] INFO: LOG-file:     4. Channel 1266941952
+[29/3/2024 04:23:46.864495] INFO: LOG-file:     5. Channel 1337458688
+[29/3/2024 04:23:46.864676] INFO: LOG-file: 	DMA channel 8 has been registered
+[29/3/2024 04:23:46.864910] INFO: LOG-file: SADC-module (sadc1) initialized
+[29/3/2024 04:23:46.865086] INFO: LOG-file: SADC: Channel sequence
+[29/3/2024 04:23:46.865284] INFO: LOG-file:     0. Channel 210763784
+[29/3/2024 04:23:46.865453] INFO: LOG-file:     1. Channel 491782272
+[29/3/2024 04:23:46.865633] INFO: LOG-file:     2. Channel 281018384
+[29/3/2024 04:23:46.865813] INFO: LOG-file:     3. Channel 562036992
+[29/3/2024 04:23:46.865992] INFO: LOG-file:     4. Channel 632291840
+[29/3/2024 04:23:46.866173] INFO: LOG-file:     5. Channel 351272992
+[29/3/2024 04:23:46.866353] INFO: LOG-file: 	DMA channel 9 has been registered
+[29/3/2024 04:23:46.866540] INFO: LOG-file: SADC-module (sadc2) initialized
+[29/3/2024 04:23:46.866746] INFO: LOG-file: SADC: Channel sequence
+[29/3/2024 04:23:46.866925] INFO: LOG-file:     0. Channel 140509188
+[29/3/2024 04:23:46.867111] INFO: LOG-file:     1. Channel 421527616
+[29/3/2024 04:23:46.867291] INFO: LOG-file:     2. Channel 704644096
+[29/3/2024 04:23:46.867469] INFO: LOG-file:     3. Channel 774899712
+[29/3/2024 04:23:46.867656] INFO: LOG-file:     4. Channel 1
+[29/3/2024 04:23:46.867835] INFO: LOG-file:     5. Channel 70254594
+[29/3/2024 04:23:46.868039] INFO: LOG-file: 	DMA channel 10 has been registered
+[29/3/2024 04:23:46.868237] INFO: LOG-file: SADC-module (sadc3) initialized
+[29/3/2024 04:23:46.868427] INFO: LOG-file: MADC: Adding SADC modules...
+[29/3/2024 04:23:46.868614] INFO: LOG-file:     SADC1 added to Master module (madc)
+[29/3/2024 04:23:46.868795] INFO: LOG-file:     SADC2 added to Master module (madc)
+[29/3/2024 04:23:46.869034] INFO: LOG-file:     SADC3 added to Master module (madc)
+[29/3/2024 04:23:46.869206] INFO: LOG-file: MADC-module (madc) initialized
+[29/3/2024 04:23:46.869382] INFO: LOG-file: CALIB (calib) initialized
+[29/3/2024 04:23:46.869557] INFO: LOG-file: EMF module initialised
+[29/3/2024 04:23:46.869756] INFO: LOG-file: [31mMain-module: EMF enabled!
+[29/3/2024 04:23:46.869960] INFO: LOG-file: [0m[31mMain-module: Data fusion disabled!
+[29/3/2024 04:23:46.870141] INFO: LOG-file: [0mMain module initialised
+[29/3/2024 04:23:46.870322] INFO: Closing com port
+[29/3/2024 04:24:10.658976] INFO: Executing command on port COM4
+[29/3/2024 04:24:10.659721] INFO: Creating object WriteNetworkCommand
+[29/3/2024 04:24:11.679414] INFO: Opening COM port
+[29/3/2024 04:24:11.679714] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 04:24:22.449939] INFO: Closing com port
+[29/3/2024 04:24:22.453157] INFO: Executing command on port COM4
+[29/3/2024 04:24:22.453704] INFO: Creating object ReadNetworkCommand
+[29/3/2024 04:24:23.472896] INFO: Opening COM port
+[29/3/2024 04:24:23.473189] INFO: HUB version 2.0.0 or higher!!
+[29/3/2024 04:24:23.493179] INFO: Closing com port
